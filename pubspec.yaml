@@ -1,7 +1,7 @@
 name: smoothimageview
-description: "A new Flutter package project."
+description: "capable of displaying images from various sources like files, assets, and network URLs with customizable placeholders and loading effects"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Bhargav6358/smooth_imageview-package.git
 
 environment:
   sdk: ^3.6.0
@@ -23,11 +23,10 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # To add assets to your package, add an assets section, like this:
   assets:
     - assets/
-  
+
   # For details regarding assets in packages, see
   # https://flutter.dev/to/asset-from-package
   #

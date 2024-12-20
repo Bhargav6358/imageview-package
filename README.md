@@ -18,7 +18,7 @@ Add `smooth_image_view` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  smooth_image_view: ^1.0.0
+  smooth_image_view: ^0.0.1
 ```
 
 Then run the following command to install the package:

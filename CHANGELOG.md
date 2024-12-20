@@ -1,3 +1,1 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+## [0.0.1] - 2024-12-20
