@@ -1,4 +1,4 @@
-# ImageView Flutter Package
+# SmoothImageView Flutter Package
 
 A simple Flutter package that provides a flexible image rendering widget, capable of displaying images from various sources like files, assets, and network URLs with customizable placeholders and loading effects.
 
@@ -30,7 +30,7 @@ flutter pub get
 import 'package:smooth_image_view/smooth_image_view.dart';
 
 // Inside your widget tree:
-ImageView(
+SmoothImageView(
   image: 'https://example.com/image.jpg', // Network URL, file path, or asset path
   type: ImageType.networks, // Choose ImageType.assets, ImageType.files, or ImageType.networks
   height: 200.0,
