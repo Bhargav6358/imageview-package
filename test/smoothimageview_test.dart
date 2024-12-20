@@ -5,7 +5,7 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:smoothimageview/smooth_image_view.dart';
+import 'package:smooth_image_view/smooth_image_view.dart';
 
 void main() {
   // Tests for different scenarios of SmoothImageView
