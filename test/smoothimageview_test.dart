@@ -64,7 +64,7 @@ void main() {
         (WidgetTester tester) async {
       // Arrange: Provide a network image URL
       const image =
-          'https://docs.flutter.dev/assets/images/dash/dash-fainting.gif';
+          '     ';
 
       // Act: Build the widget tree with a network image type and check for shimmer effect
       await tester.pumpWidget(

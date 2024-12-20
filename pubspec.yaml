@@ -1,6 +1,7 @@
 name: smooth_image_view
 description: "capable of displaying images from various sources like files, assets, and network URLs with customizable placeholders and loading effects"
 version: 0.0.1
+license: MIT
 homepage: https://github.com/Bhargav6358/smooth_imageview-package.git
 
 environment:
